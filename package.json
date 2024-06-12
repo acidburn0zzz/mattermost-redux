@@ -74,7 +74,7 @@
     "eslint-plugin-import": "2.18.2",
     "eslint-plugin-mattermost": "github:mattermost/eslint-plugin-mattermost#070ce792d105482ffb2b27cfc0b7e78b3d20acee",
     "husky": "3.0.5",
-    "jest": "24.8.0",
+    "jest": "29.7.0",
     "jest-junit": "6.4.0",
     "mock-socket": "8.0.5",
     "nock": "11.7.2",
